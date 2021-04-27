@@ -1,0 +1,1 @@
+讲解react-redux方法中重要的两个组件provider以及connect，讲state和dispatch方法映射为组件的属性，直接引用this.props来使用方法。
